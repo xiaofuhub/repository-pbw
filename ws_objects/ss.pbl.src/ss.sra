@@ -31,5 +31,4 @@ destroy( sqlsa )
 destroy( error )
 destroy( message )
 end on
-feeee
 
