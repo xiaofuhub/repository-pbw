@@ -31,7 +31,7 @@ on w_01.destroy
 destroy(this.ov_1)
 end on
 
-event open;//22322
+event open;//22322ss
 end event
 
 type ov_1 from oval within w_01
