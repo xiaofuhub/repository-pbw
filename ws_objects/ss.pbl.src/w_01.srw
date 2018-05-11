@@ -31,6 +31,9 @@ on w_01.destroy
 destroy(this.ov_1)
 end on
 
+event open;//22322
+end event
+
 type ov_1 from oval within w_01
 long linecolor = 33554432
 integer linethickness = 4
