@@ -1,4 +1,5 @@
-﻿$PBExportHeader$ss.sra
+
+$PBExportHeader$ss.sra
 $PBExportComments$Generated Application Object
 forward
 global type ss from application
@@ -32,4 +33,5 @@ destroy( error )
 destroy( message )
 end on
 //44555
+//56565
 
