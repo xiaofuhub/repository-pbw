@@ -43,4 +43,5 @@ integer y = 288
 integer width = 329
 integer height = 176
 end type
+//9000
 
