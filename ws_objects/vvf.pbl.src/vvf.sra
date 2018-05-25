@@ -1,4 +1,4 @@
-$PBExportHeader$vvf.sra
+﻿$PBExportHeader$vvf.sra
 $PBExportComments$Generated Application Object
 forward
 global type vvf from application
@@ -32,6 +32,6 @@ destroy(error)
 destroy(message)
 end on
 
-event open;//023aaaa
+event open;//023aaaabbbb
 end event
 
