@@ -32,6 +32,6 @@ destroy(error)
 destroy(message)
 end on
 
-event open;//023
+event open;//023aaaa
 end event
 
