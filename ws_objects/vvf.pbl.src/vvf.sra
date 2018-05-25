@@ -1,4 +1,4 @@
-﻿$PBExportHeader$vvf.sra
+$PBExportHeader$vvf.sra
 $PBExportComments$Generated Application Object
 forward
 global type vvf from application
