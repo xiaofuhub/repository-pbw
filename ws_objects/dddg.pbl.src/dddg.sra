@@ -1,4 +1,4 @@
-﻿$PBExportHeader$dddg.sra
+a﻿$PBExportHeader$dddg.sra
 $PBExportComments$Generated Application Object
 forward
 global type dddg from application
@@ -32,6 +32,6 @@ destroy(error)
 destroy(message)
 end on
 //123
-event open;//25
+event open;//25bv
 end event
 
