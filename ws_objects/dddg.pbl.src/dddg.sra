@@ -1,4 +1,4 @@
-a﻿$PBExportHeader$dddg.sra
+$PBExportHeader$dddg.sra
 $PBExportComments$Generated Application Object
 forward
 global type dddg from application
