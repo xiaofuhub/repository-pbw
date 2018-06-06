@@ -31,7 +31,7 @@ destroy(sqlsa)
 destroy(error)
 destroy(message)
 end on
-//123
-event open;//25bvvbb
+
+event open;//251203g
 end event
 
